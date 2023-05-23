@@ -2,7 +2,7 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--helix-boiler--mtdowner.hlx.page/
+- Preview: https://main--helix-boilerplate--mtdowner.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
 ## Installation
