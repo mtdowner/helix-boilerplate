@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# My Helix Website
+An attempt at configuring possibly the easiest website to build. I still seem to have messed it up... pray for me.
 
 ## Environments
 - Preview: https://main--helix-boilerplate--mtdowner.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Live: https://main--helix-boilerplate--mtdowner.hlx.live/
 
 ## Installation
 
