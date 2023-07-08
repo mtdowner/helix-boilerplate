@@ -1,6 +1,6 @@
 {
   "name": "@adobe/helix-project-boilerplate",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "description": "Starter project for Adobe Helix",
   "scripts": {
